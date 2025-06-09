@@ -1,4 +1,4 @@
-# 📚 Rentool
+# 🛠️ Rentool
 
 A peer-to-peer marketplace application for renting tools from people around Tokyo.
 
